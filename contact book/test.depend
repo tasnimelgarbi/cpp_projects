@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1730310186 source:c:\users\basse\onedrive\desktop\teatat\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<conio.h>
+	"Contact.h"
+	"Array.h"
+	"Person.h"
+	<iomanip>
+	<algorithm>
+
+1730311153 c:\users\basse\onedrive\desktop\teatat\contact.h
+	"Array.h"
+	"Person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1730290822 c:\users\basse\onedrive\desktop\teatat\array.h
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1730311120 c:\users\basse\onedrive\desktop\teatat\person.h
+	<iostream>
+	<string>
+	<algorithm>
+	"Address.h"
+	<iomanip>
+	<algorithm>
+
+1730310689 c:\users\basse\onedrive\desktop\teatat\address.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1730391677 source:c:\users\basse\onedrive\desktop\final\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<conio.h>
+	"Contact.h"
+	"Array.h"
+	"Person.h"
+	<iomanip>
+	<algorithm>
+
+1730417462 c:\users\basse\onedrive\desktop\final\contact.h
+	"Array.h"
+	"Person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1730287222 c:\users\basse\onedrive\desktop\final\array.h
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1730414665 c:\users\basse\onedrive\desktop\final\person.h
+	<iostream>
+	<string>
+	<algorithm>
+	"Address.h"
+	<iomanip>
+	<algorithm>
+
+1730307089 c:\users\basse\onedrive\desktop\final\address.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1730542665 source:c:\users\basse\onedrive\desktop\finaaaal\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<conio.h>
+	"Contact.h"
+	"Array.h"
+	"Person.h"
+	<iomanip>
+	<algorithm>
+
+1730546599 c:\users\basse\onedrive\desktop\finaaaal\contact.h
+	"Array.h"
+	"Person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1730546081 c:\users\basse\onedrive\desktop\finaaaal\array.h
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1730414665 c:\users\basse\onedrive\desktop\finaaaal\person.h
+	<iostream>
+	<string>
+	<algorithm>
+	"Address.h"
+	<iomanip>
+	<algorithm>
+
+1730307089 c:\users\basse\onedrive\desktop\finaaaal\address.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1730542665 source:c:\users\system 2023\downloads\telegram desktop\finaaaaal\finaaaaal\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<conio.h>
+	"Contact.h"
+	"Array.h"
+	"Person.h"
+	<iomanip>
+	<algorithm>
+
+1730546599 c:\users\system 2023\downloads\telegram desktop\finaaaaal\finaaaaal\contact.h
+	"Array.h"
+	"Person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1730546081 c:\users\system 2023\downloads\telegram desktop\finaaaaal\finaaaaal\array.h
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1730414665 c:\users\system 2023\downloads\telegram desktop\finaaaaal\finaaaaal\person.h
+	<iostream>
+	<string>
+	<algorithm>
+	"Address.h"
+	<iomanip>
+	<algorithm>
+
+1730307089 c:\users\system 2023\downloads\telegram desktop\finaaaaal\finaaaaal\address.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1730542665 source:d:\fci\level two\first semester\data structure\project 1\finaaaaal\finaaaaal\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<conio.h>
+	"Contact.h"
+	"Array.h"
+	"Person.h"
+	<iomanip>
+	<algorithm>
+
+1730546599 d:\fci\level two\first semester\data structure\project 1\finaaaaal\finaaaaal\contact.h
+	"Array.h"
+	"Person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1730546081 d:\fci\level two\first semester\data structure\project 1\finaaaaal\finaaaaal\array.h
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	<algorithm>
+
+1730616771 d:\fci\level two\first semester\data structure\project 1\finaaaaal\finaaaaal\person.h
+	<iostream>
+	<string>
+	<algorithm>
+	"Address.h"
+	<iomanip>
+	<algorithm>
+
+1730307089 d:\fci\level two\first semester\data structure\project 1\finaaaaal\finaaaaal\address.h
+	<iostream>
+	<string>
+	<iomanip>
+
