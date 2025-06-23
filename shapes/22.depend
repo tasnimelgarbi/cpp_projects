@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1715108951 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\main.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"Rectangle.h"
+
+1715013610 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\shape.h
+	<string>
+
+1715106707 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\shape.cpp
+	"shape.h"
+	<iostream>
+	<string>
+
+1715112803 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\rectangle.h
+	"Shape.h"
+
+1715112803 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+
+1715113380 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\circle.cpp
+	"circle.h"
+	<iostream>
+
+1715113051 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\circle.h
+	"shape.h"
+
+1715115326 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1715115512 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \22\cylinder.h
+	"circle.h"
+	"shape.h"
+
