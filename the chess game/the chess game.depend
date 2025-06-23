@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703200205 source:d:\documents\sec\the chess game\che.cpp
+	<graphics.h>
+
+1266094214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1703204232 source:d:\fci\level one\downloads\fci_data_1.1\programming 1\documents\c++\the chess game\che.cpp
+	<graphics.h>
+
