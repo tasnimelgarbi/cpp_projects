@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1715201257 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\manager.cpp
+	"manager.h"
+
+1715209587 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\manager.h
+	"employee.h"
+	"salariedemployee.h"
+
+1715208176 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\salariedemployee.cpp
+	"salariedemployee.h"
+	<iostream>
+
+1715208176 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\salariedemployee.h
+	"employee.h"
+
+1715209515 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"hourlyemployee.h"
+	"salariedemployee.h"
+	"manager.h"
+
+1715202239 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\employee.h
+	<string>
+
+1715202310 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\employee.cpp
+	"employee.h"
+	<iostream>
+	<string>
+
+1715204243 source:d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\hourlyemployee.cpp
+	"hourlyemployee.h"
+	<iostream>
+
+1715204243 d:\level one\second semester\oop\«· «”ﬂ«««««««««« \24\hourlyemployee.h
+	"employee.h"
+
