@@ -6,6 +6,7 @@ This repository contains a collection of individual C++ mini-projects, each loca
 
 | Branch Name     | Description                          |
 |------------------|--------------------------------------|
+| `quran_player`   |Console-based Qur’an recitation player*| 
 | `contact_book`   | Contact management system            |
 | `calculater`     | Basic arithmetic calculator          |
 | `employment`     | Simple employee record system        |
@@ -21,6 +22,10 @@ Build tools: g++, optional Makefiles
 ## Author
 
 Tasnim Elgarbi – Zagazig University – Faculty of Computers and Information
+
+## Hint
+\* `quran_player` lists local `.mp3` files found in an `audio/` folder and plays the chosen recitation.  
+Audio files are **not** included in the repository—see that branch’s README for download instructions.
 
 ## How to Use
 
