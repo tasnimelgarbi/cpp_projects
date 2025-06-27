@@ -15,9 +15,9 @@ This repository contains a collection of individual C++ mini-projects, each loca
 | `name`           | Name formatting or related utility   |
 
 ## Technologies
-Language: C++
-Compiler: GCC / Clang / MSVC
-Build tools: g++, optional Makefiles
+**Language:** C++
+**Compiler:** GCC / Clang / MSVC
+**Build tools:** g++, optional Makefiles
 
 ## Author
 
