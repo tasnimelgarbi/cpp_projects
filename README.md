@@ -1,11 +1,35 @@
-# Main Branch
+# C++ Projects
 
-This is the main branch of the repository.
+This repository contains a collection of individual C++ mini-projects, each located in a separate Git branch. These projects were developed for learning and practice purposes using object-oriented and procedural programming concepts.
 
-## Purpose:
-- Serves as the central branch where all finalized and reviewed projects can be merged.
-- Keep this branch clean and organized for production-ready code.
+## Available Projects (Branches)
 
-## Notes:
-- Avoid adding test or experimental code here.
-- Use pull requests from feature branches to maintain code quality.
+| Branch Name     | Description                          |
+|------------------|--------------------------------------|
+| `contact_book`   | Contact management system            |
+| `calculater`     | Basic arithmetic calculator          |
+| `employment`     | Simple employee record system        |
+| `shapes`         | Area and perimeter calculator        |
+| `chess_game`     | Console-based chess piece movement   |
+| `name`           | Name formatting or related utility   |
+
+## Technologies
+Language: C++
+Compiler: GCC / Clang / MSVC
+Build tools: g++, optional Makefiles
+
+## Author
+
+Tasnim Elgarbi – Zagazig University – Faculty of Computers and Information
+
+## How to Use
+
+To access any project:
+
+```bash
+git clone https://github.com/tasnimelgarbi/cpp_projects.git
+cd cpp_projects
+git checkout <branch-name>
+g++ -std=c++17 *.cpp -o app
+./app            # or .\app.exe on Windows
+
