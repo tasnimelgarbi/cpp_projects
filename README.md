@@ -2,9 +2,9 @@
 
 This repository contains a collection of individual C++ mini-projects, each located in a separate Git branch. These projects were developed for learning and practice purposes using object-oriented and procedural programming concepts.
 
-## Available Projects (Branches)
+## Projects (Branches)
 
-| Branch Name     | Description                          |
+| Name             | Description                          |
 |------------------|--------------------------------------|
 | `quran_player`   |Console-based Qur’an recitation player*| 
 | `contact_book`   | Contact management system            |
