@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1732998954 source:d:\fci\level two\first semester\data structure\project 2\quran\main.cpp
+	<iostream>
+
+1733003714 source:d:\fci\level two\first semester\data structure\project 2\quran\surah.cpp
+	"Surah.h"
+	<iostream>
+
+1733003714 d:\fci\level two\first semester\data structure\project 2\quran\surah.h
+	<string>
+
+1733003714 source:d:\fci\level two\first semester\data structure\project 2\quran\elsheikh.cpp
+	"Elsheikh.h"
+
+1733003202 d:\fci\level two\first semester\data structure\project 2\quran\elsheikh.h
+	"DoublyLinkedList.h"
+	"Surah.h"
+	<string>
+
+1733004003 d:\fci\level two\first semester\data structure\project 2\quran\doublylinkedlist.h
+	<iostream>
+
+1733428036 source:c:\users\basse\onedrive\desktop\poject #2\quran\elsheikh.cpp
+	"Elsheikh.h"
+
+1733427825 c:\users\basse\onedrive\desktop\poject #2\quran\elsheikh.h
+	"DoublyLinkedList.h"
+	"Surah.h"
+	<string>
+
+1733429602 c:\users\basse\onedrive\desktop\poject #2\quran\doublylinkedlist.h
+	<iostream>
+
+1733003714 c:\users\basse\onedrive\desktop\poject #2\quran\surah.h
+	<string>
+
+1733003714 source:c:\users\basse\onedrive\desktop\poject #2\quran\surah.cpp
+	"Surah.h"
+	<iostream>
+
+1733429243 source:c:\users\basse\onedrive\desktop\poject #2\quran\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"surah.h"
+	"doublylinkedlist.h"
+	"playlist.h"
+	"elsheikh.h"
+
+1733426852 c:\users\basse\onedrive\desktop\poject #2\quran\playlist.h
+	"Elsheikh.h"
+	"Surah.h"
+	"DoublyLinkedList.h"
+	<string>
+	<iostream>
+
+1733429786 source:c:\users\basse\onedrive\desktop\poject #2\quran\playlist.cpp
+	"Playlist.h"
+	<iomanip>
+	<fstream>
+
+1733857662 source:c:\users\basse\onedrive\desktop\new folder (6)\quran\elsheikh.cpp
+	"Elsheikh.h"
+
+1733427825 c:\users\basse\onedrive\desktop\new folder (6)\quran\elsheikh.h
+	"DoublyLinkedList.h"
+	"Surah.h"
+	<string>
+
+1733864306 c:\users\basse\onedrive\desktop\new folder (6)\quran\doublylinkedlist.h
+	<iomanip>
+	<iostream>
+
+1733003714 c:\users\basse\onedrive\desktop\new folder (6)\quran\surah.h
+	<string>
+
+1733864458 source:c:\users\basse\onedrive\desktop\new folder (6)\quran\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"surah.h"
+	"doublylinkedlist.h"
+	"playlist.h"
+	"elsheikh.h"
+
+1733864324 c:\users\basse\onedrive\desktop\new folder (6)\quran\playlist.h
+	"Elsheikh.h"
+	"Surah.h"
+	"DoublyLinkedList.h"
+	<string>
+	<iostream>
+
+1733865035 source:c:\users\basse\onedrive\desktop\new folder (6)\quran\playlist.cpp
+	"Playlist.h"
+	<windows.h>
+	<mmsystem.h>
+	<iomanip>
+	<fstream>
+
+1733775575 source:c:\users\basse\onedrive\desktop\new folder (6)\quran\surah.cpp
+	"Surah.h"
+	<iostream>
+	<iomanip>
+
