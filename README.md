@@ -1,4 +1,4 @@
-# Contact Book (Data Structures Project)
+# Contact Book 
 
 This branch is part of a team-based C++ project focused on building a complete Contact Book system using data structures and OOP.
 
