@@ -23,7 +23,7 @@ This repository contains a collection of individual C++ mini-projects, each loca
 
 ## Author
 
-Tasnim Elgarbi – Zagazig University – Faculty of Computers and Information
+Tasnim Elgarbi – Zagazig University – Faculty of Computers and Informatices
 
 ## Hint
 \* `quran_player` lists local `.mp3` files found in an `audio/` folder and plays the chosen recitation.  
